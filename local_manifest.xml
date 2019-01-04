@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/motorola/jeter" name="/home/buddhadroiddev/aosip_oreo/device/motorola/jeter" remote="github" revision="master" />
+  <project path="vendor/motorola/jeter" name="vendor/motorola/jeter" remote="" revision="master" />
+  <project path="/home/buddhadroiddev/aosip_oreo/device/motorola/jeter-kernel" name="/ixmoe/android_kernel_motorola_msm8920/tree/android-8.0" remote="github" revision="master" />
+</manifest
